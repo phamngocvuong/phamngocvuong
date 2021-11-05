@@ -1,0 +1,1024 @@
+{
+   "checksum": "0e20fc33ebc20e51c68fed60028ca5f4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13268971517211963",
+            "guid": "30af579b-1912-4c19-a37b-4d29582944db",
+            "id": "165",
+            "name": "LuCall : Login",
+            "type": "url",
+            "url": "https://lucall.luvina.net/"
+         }, {
+            "date_added": "13269682585245594",
+            "guid": "e1fda0df-c699-4308-a0a4-1bc109dea75d",
+            "id": "171",
+            "name": "Các câu lệnh Vim mà các developer nên biết",
+            "type": "url",
+            "url": "https://viblo.asia/p/cac-cau-lenh-vim-ma-cac-developer-nen-biet-ByEZkLyglQ0"
+         }, {
+            "date_added": "13269663606048807",
+            "guid": "265c09d6-05dd-4fc6-9e2a-414ac1176c42",
+            "id": "169",
+            "name": "Welcome to VMware vSphere",
+            "type": "url",
+            "url": "https://10.1.0.19/"
+         }, {
+            "children": [ {
+               "date_added": "13237262228000000",
+               "guid": "a8ba5370-d69e-4958-bed1-6f99e94a7239",
+               "id": "24",
+               "name": "::CALL THE ROLL::",
+               "type": "url",
+               "url": "http://192.168.0.110/lucall/?proc=show_mypage#"
+            }, {
+               "date_added": "13237262235000000",
+               "guid": "24ff4249-72f8-4de4-ada4-872ba94f0478",
+               "id": "25",
+               "name": "Welcome Board: ITinfra/ADM | Trello",
+               "type": "url",
+               "url": "https://trello.com/b/k0M1ZSQA/welcome-board-itinfra-adm"
+            }, {
+               "date_added": "13233235755000000",
+               "guid": "d4e2e7f7-98f6-4621-a4f7-9a3cd616bf46",
+               "id": "26",
+               "name": "LUVINA-VPN-MONITOR OpenVPN Status Monitor",
+               "type": "url",
+               "url": "https://vpnmonitor.luvina.net/"
+            }, {
+               "date_added": "13240466866000000",
+               "guid": "b13e9976-d393-46e2-9af3-8d7fed7e11a9",
+               "id": "27",
+               "name": "Luvina OpenVPN Status Monitor",
+               "type": "url",
+               "url": "https://vpnmonitor.luvina.net/"
+            }, {
+               "date_added": "13242714295000000",
+               "guid": "724d73b7-e394-40df-becb-271e840039c9",
+               "id": "28",
+               "name": "TechBench by WZT (v4.1.1)",
+               "type": "url",
+               "url": "https://tb.rg-adguard.net/public.php"
+            }, {
+               "date_added": "13233835270000000",
+               "guid": "61ef3919-7c61-4da0-a0a6-94a3b45548e2",
+               "id": "29",
+               "name": "Web Admin | Welcome",
+               "type": "url",
+               "url": "http://10.1.0.1/cgi-bin/MANGA/index.cgi"
+            }, {
+               "date_added": "13239882576000000",
+               "guid": "d33f5503-5eb1-46d7-95bd-eea408886102",
+               "id": "30",
+               "name": "IT Request",
+               "type": "url",
+               "url": "https://itrequest.luvina.net/"
+            }, {
+               "date_added": "13249640851983152",
+               "guid": "7f2c50a3-f090-41ed-b9de-b99b9a24f60d",
+               "id": "103",
+               "name": "Luvina VPN System V2",
+               "type": "url",
+               "url": "http://14.176.232.32:1195/"
+            }, {
+               "date_added": "13253279615291106",
+               "guid": "e0b411d4-0e06-49e6-928a-63ab1f8019d9",
+               "id": "130",
+               "name": "Đăng ký bật máy qua đêm hàng ngày",
+               "type": "url",
+               "url": "https://survey.luvina.net/pc-overtime/#/"
+            }, {
+               "date_added": "13253704099965261",
+               "guid": "4ba8b6ad-12c5-405f-8c8c-d39dabe32387",
+               "id": "133",
+               "name": "Welcome to VMware vSphere",
+               "type": "url",
+               "url": "https://vcloud.luvina.net/"
+            } ],
+            "date_added": "13249621428509200",
+            "date_modified": "13253704099965261",
+            "guid": "23543c8a-c1c2-4345-981d-33d0c05ab1f3",
+            "id": "23",
+            "name": "luvina",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13234005476000000",
+               "guid": "6ba9da14-e93c-4cdd-b4ec-b748e8bace70",
+               "id": "9",
+               "name": "gitlab/mirgrate-gitlab.md · d69b5ff0eba8eed218adfe9208425e2d735ff955 · Hoang Trong Minh / Huong dan cai dat · GitLab",
+               "type": "url",
+               "url": "https://git.luvina.net/hoangtrongminh/huong-dan-cai-dat/-/blob/d69b5ff0eba8eed218adfe9208425e2d735ff955/gitlab/mirgrate-gitlab.md"
+            }, {
+               "date_added": "13232606688000000",
+               "guid": "b9a23082-4e55-49a6-aa9b-4ee99d34bbf8",
+               "id": "10",
+               "name": "Cấu Hình openvpn Trên pfSense | An ninh mạng",
+               "type": "url",
+               "url": "https://anninhmang.edu.vn/cau-hinh-openvpn-tren-pfsense/"
+            }, {
+               "date_added": "13232624093000000",
+               "guid": "b239a6b8-2090-4c9f-8e2b-8243daa66089",
+               "id": "11",
+               "name": "PFSENSE toàn tập - ITOpenLab",
+               "type": "url",
+               "url": "https://sites.google.com/site/itopenlab/open-system-box/pfsense-firewall/pfsense-toan-tap"
+            }, {
+               "date_added": "13231933624000000",
+               "guid": "be0e71f5-da39-489e-b360-eda9f7c989d4",
+               "id": "12",
+               "name": "Cấu hình Telnet trên Switch cisco",
+               "type": "url",
+               "url": "http://maychuchinhhang.vn/cau-hinh-telnet-tren-switch-cisco/a361.html"
+            }, {
+               "date_added": "13233142550000000",
+               "guid": "135b1cac-9294-436b-9f03-50426a53de1d",
+               "id": "13",
+               "name": "Làm chủ Centos 7 Archives - Page 2 of 2 - Cho thuê máy chủ ảo, thuê vps, thuê hosting giá rẻ chất lượng tốt",
+               "type": "url",
+               "url": "https://1hosting.com.vn/category/tin-tuc-cong-nghe/centos-7/master-centos-7/page/2/"
+            }, {
+               "date_added": "13234343006000000",
+               "guid": "41b7d258-88ea-4747-8f7d-991d083d0ee3",
+               "id": "14",
+               "name": "Compare the Peplink Balance family.",
+               "type": "url",
+               "url": "https://www.peplink.com/products/balance/model-comparison/"
+            }, {
+               "date_added": "13234346460000000",
+               "guid": "c833ca89-24c0-4453-bf1b-111deafa8793",
+               "id": "15",
+               "name": "Cấu hình port trunk, intervlan routing, phân tích gói tin vlan",
+               "type": "url",
+               "url": "http://nghiahung.vn/cau-hinh-port-trunk-intervlan-routing-phan-tich-goi-tin-vlan/a1287032.html"
+            }, {
+               "date_added": "13231504866000000",
+               "guid": "862227e2-ae33-40fa-bc86-6940b81cc67f",
+               "id": "16",
+               "name": "Core Switch là gì? Sự khác biệt giữa Core Switch và Switch Access, Core Switch là gì? Tìm hiểu đặc điểm của Core Switch",
+               "type": "url",
+               "url": "https://thietbimangcisco.vn/core-switch-la-gi-tim-hieu-dac-diem-cua-core-switch-v-322-329-5256.html"
+            }, {
+               "date_added": "13234006684000000",
+               "guid": "6955c5b0-a476-4fa1-8d0f-67411bc2d24f",
+               "id": "17",
+               "name": "Multi Port Layer 2 Ethernet Switch Cisco Catalyst 2960 L Series WS-C2960L-48TS-AP",
+               "type": "url",
+               "url": "http://www.gigabitlanswitch.com/sale-10762693-multi-port-layer-2-ethernet-switch-cisco-catalyst-2960-l-series-ws-c2960l-48ts-ap.html"
+            }, {
+               "date_added": "13234958167000000",
+               "guid": "476697dd-426c-4e01-aa79-b0e242f0fd22",
+               "id": "18",
+               "name": "Sudo là gì? Hướng dẫn cấp quyền Sudo cho User trong Ubuntu",
+               "type": "url",
+               "url": "https://hostingviet.vn/sudo-la-gi"
+            }, {
+               "date_added": "13236149872000000",
+               "guid": "1d2f2ddc-68f2-4882-a6cc-c9cc94570b9c",
+               "id": "19",
+               "name": "Microsoft.windows.8.1.enterprise.rtm.volume.with.rollup-1.all.la (Torrent/Magnet Download) - TorrentQuest",
+               "type": "url",
+               "url": "https://torrentquest.com/file/926367/microsoft.windows.8.1.enterprise.rtm.volume.with.rollup-1.all.la/"
+            }, {
+               "date_added": "13236935813000000",
+               "guid": "a9d07659-a088-44a3-b833-1b6cfd0965b1",
+               "id": "20",
+               "name": "Share website trong mạng Lan",
+               "type": "url",
+               "url": "https://nukeviet.vn/vi/forum/Share-website-trong-mang-Lan-t29117/"
+            }, {
+               "date_added": "13236936513000000",
+               "guid": "99abfc28-1a09-4b66-bcd1-efc3c107c991",
+               "id": "21",
+               "name": "Share website trong mạng Lan",
+               "type": "url",
+               "url": "https://nukeviet.vn/vi/forum/Share-website-trong-mang-Lan-t29117/"
+            }, {
+               "date_added": "13238930874000000",
+               "guid": "1e770a21-0751-416e-b804-1ecbfe636e84",
+               "id": "22",
+               "name": "Làm thế nào để xác định thiết bị được kết nối tới port nào của switch. | HoangTuan's Blog",
+               "type": "url",
+               "url": "https://htuanhoang.wordpress.com/2016/11/29/lam-the-nao-de-xac-dinh-thiet-bi-duoc-ket-noi-toi-port-nao-cua-switch/"
+            } ],
+            "date_added": "13249621428508277",
+            "date_modified": "13269663606048807",
+            "guid": "c503b43b-e091-435e-98ed-946545e00446",
+            "id": "8",
+            "name": "sys",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13237878248000000",
+               "guid": "73792442-3295-4674-878a-425bdfd86657",
+               "id": "33",
+               "name": "Cách đặt múi giờ PHP trong cPanel và CentOS - NetWeaver",
+               "type": "url",
+               "url": "https://www.netweaver.uk/set-php-timezone/"
+            }, {
+               "date_added": "13237350559000000",
+               "guid": "92d71365-ef73-4404-b09d-388204a11aac",
+               "id": "34",
+               "name": "Cấu hình Multi Remote Session Windows 10 cho phép nhiều phiên remote",
+               "type": "url",
+               "url": "https://tientan.net/thu-thuat-may-tinh/windows/multi-remote-session-windows-10.html"
+            }, {
+               "date_added": "13235652201000000",
+               "guid": "339a61e1-4560-44c3-b320-12d08226afaa",
+               "id": "35",
+               "name": "7net, Helpdesk, Hoc IT",
+               "type": "url",
+               "url": "http://www.7net.vn/2014/08/youmightnothavepermissiontousethisnetwo.html"
+            }, {
+               "date_added": "13237984397000000",
+               "guid": "6346cb19-e852-4d79-a3c7-8b1e48af1536",
+               "id": "36",
+               "name": "NGINX là gì? Nó hoạt động như thế nào?",
+               "type": "url",
+               "url": "https://www.hostinger.vn/huong-dan/nginx-la-gi-no-hoat-dong-nhu-the-nao/"
+            }, {
+               "date_added": "13238215052000000",
+               "guid": "53636f21-7040-4abc-9b6a-734548cc4589",
+               "id": "38",
+               "name": "Vmware Vsphere: Tất cả các về đề về join Vcenter vào domain để chứng thực tập trung và phân quyền tập trung – itWEB[.vn]",
+               "type": "url",
+               "url": "https://itweb.vn/vmware/vmware-vsphere-tat-ca-cac-ve-de-ve-join-vcenter-vao-domain-de-chung-thuc-tap-trung-va-phan-quyen-tap-trung/"
+            }, {
+               "date_added": "13238219759000000",
+               "guid": "5a00a8e3-81a3-490e-836b-36f12dcdecb8",
+               "id": "40",
+               "name": "Git Concepts I Wish I Knew Years Ago - DEV",
+               "type": "url",
+               "url": "https://dev.to/g_abud/advanced-git-reference-1o9j"
+            }, {
+               "date_added": "13239181409000000",
+               "guid": "40168ec3-c985-44a4-9490-493ebd2a8978",
+               "id": "41",
+               "name": "DevOps là gì? DevOps Engineer là làm gì? - ITviec",
+               "type": "url",
+               "url": "https://itviec.com/blog/devops-engineer-la-gi/"
+            }, {
+               "date_added": "13239186288000000",
+               "guid": "c6b1d54e-c35a-4af0-90e7-1c352e9cc96e",
+               "id": "42",
+               "name": "GitHub - google / tsunami-security-Scanner: Tsunami là một trình quét bảo mật mạng có mục đích chung với hệ thống plugin có thể mở rộng để phát hiện các lỗ hổng nghiêm trọng cao với độ tin cậy cao.",
+               "type": "url",
+               "url": "https://github.com/google/tsunami-security-scanner"
+            }, {
+               "date_added": "13239687478000000",
+               "guid": "718b9fe0-67d9-4d2a-8a3f-429b17998e51",
+               "id": "45",
+               "name": "Triển khai WSUS - Windows Server Update Services - Viblo",
+               "type": "url",
+               "url": "https://viblo.asia/p/trien-khai-wsus-windows-server-update-services-Qbq5QJpwKD8"
+            }, {
+               "date_added": "13240643409000000",
+               "guid": "f7584e2c-4e23-4b1a-bfa7-5287e9901a97",
+               "id": "46",
+               "name": "VPN Protocols – 8 Most Popular Protocols Explained",
+               "type": "url",
+               "url": "https://www.purevpn.com/what-is-vpn/protocols"
+            }, {
+               "date_added": "13242674996000000",
+               "guid": "64a75d04-1e16-43f5-afcc-8978f058cdf4",
+               "id": "47",
+               "name": "Privacy error",
+               "type": "url",
+               "url": "https://ca0.vdi.cti.co.jp/my.policy"
+            }, {
+               "date_added": "13244634058000000",
+               "guid": "8481b152-a4e8-4c7d-a794-cfb10caa8847",
+               "id": "50",
+               "name": "VMware - [Lab 2.3] Cài đặt VMware vCenter 5.5 trên Windows Server 2012 | Lab Network System Security",
+               "type": "url",
+               "url": "http://securityzone.vn/t/lab-2-3-cai-dat-vmware-vcenter-5-5-tren-windows-server-2012.529/"
+            }, {
+               "date_added": "13244695234000000",
+               "guid": "96f3299a-27a0-4257-ac80-2faffcccc021",
+               "id": "51",
+               "name": "VMware - [Lab 1.1] Hướng dẫn cài đặt và cấu hình VMware ESXi 5.5 | Lab Network System Security",
+               "type": "url",
+               "url": "http://securityzone.vn/t/lab-1-1-huong-dan-cai-dat-va-cau-hinh-vmware-esxi-5-5.526/"
+            }, {
+               "date_added": "13245235339000000",
+               "guid": "24046b57-f084-477f-8e95-7ea683d9106b",
+               "id": "52",
+               "name": "Cài đặt và sử dụng OpenVPN Client trên Ubuntu Linux - VinaSupport",
+               "type": "url",
+               "url": "https://vinasupport.com/cai-dat-va-su-dung-openvpn-client-tren-ubuntu-linux/"
+            }, {
+               "date_added": "13245243792000000",
+               "guid": "7e7adf66-cb6b-4fc5-b798-b6b9b59d007f",
+               "id": "53",
+               "name": "Tạo SSL Certificate Authority cho HTTPS trên local - Viblo",
+               "type": "url",
+               "url": "https://viblo.asia/p/tao-ssl-certificate-authority-cho-https-tren-local-1VgZvpQY5Aw"
+            }, {
+               "date_added": "13238584038000000",
+               "guid": "188e1a59-6019-40c1-a9b2-3e05a2dd35ac",
+               "id": "54",
+               "name": "Các câu lệnh MySQL quan trọng cần phải biết - Học VPS",
+               "type": "url",
+               "url": "https://hocvps.com/cac-cau-lenh-mysql-can-phai-biet/"
+            }, {
+               "date_added": "13238667620000000",
+               "guid": "eb72ea55-c3a1-4bc2-a36d-906eb60f6844",
+               "id": "55",
+               "name": "Windows Update Error 0x8024401c [Fixed] - Driver Easy",
+               "type": "url",
+               "url": "https://www.drivereasy.com/knowledge/windows-update-error-0x8024401c-fixed/"
+            }, {
+               "date_added": "13245933860000000",
+               "guid": "1502c5fa-0b03-4575-9ba8-8d0c63fae7fc",
+               "id": "57",
+               "name": "Cài đặt và sử dụng OpenVPN Client trên Ubuntu Linux - VinaSupport",
+               "type": "url",
+               "url": "https://vinasupport.com/cai-dat-va-su-dung-openvpn-client-tren-ubuntu-linux/"
+            }, {
+               "date_added": "13247044307000000",
+               "guid": "94764e6b-ad0e-4ecf-a5fd-126cfe7063cf",
+               "id": "58",
+               "name": "Tất tần tật về Nmap - Quantrimang.com",
+               "type": "url",
+               "url": "https://quantrimang.com/tat-tan-tat-ve-nmap-157752"
+            }, {
+               "date_added": "13251200727288211",
+               "guid": "9a324329-3cbf-4cb7-ac1b-986822c426f1",
+               "id": "115",
+               "name": "How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux - nixCraft",
+               "type": "url",
+               "url": "https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/"
+            }, {
+               "date_added": "13254316574553369",
+               "guid": "7ff3f604-74dd-4134-b155-17dd1fce0fd7",
+               "id": "135",
+               "name": "Cách xử lý lỗi mạng | VMware ESXi",
+               "type": "url",
+               "url": "https://geek-university.com/vmware-esxi/how-to-handle-network-failures/"
+            }, {
+               "date_added": "13254826527101342",
+               "guid": "34f0f078-0633-41b8-bd5a-b37a1fc57be1",
+               "id": "141",
+               "name": "read mine - Tìm với Google",
+               "type": "url",
+               "url": "https://www.google.com/search?rlz=1C1GCEU_enVN927VN927&ei=_Aj8X83oNpiC-Qbcko_4Dg&q=read+mine&oq=read+mine&gs_lcp=CgZwc3ktYWIQAxgCMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgYIABAKEBMyBAgAEBMyBAgAEBMyBAgAEBM6BAgAEEc6BAgAEEM6CAgAELEDEIMBOgIIADoCCC46CAguELEDEIMBOgUIABCxAzoHCAAQsQMQQzoHCAAQsQMQCjoECAAQClDkJFiBXGDhb2gBcAJ4AIABkwGIAeoJkgEEMC4xMJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab"
+            }, {
+               "date_added": "13269061032989944",
+               "guid": "ebcad7ec-e0ac-44c3-960f-46bbf537e666",
+               "id": "167",
+               "name": "Kubernetes là gì | Kubernetes",
+               "type": "url",
+               "url": "https://kubernetes.io/vi/docs/concepts/overview/what-is-kubernetes/"
+            } ],
+            "date_added": "13249621428510177",
+            "date_modified": "13269061032989944",
+            "guid": "1d966c6c-bcff-4607-8d6d-a2940d1a107f",
+            "id": "32",
+            "name": "ngam cuu",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13237028344000000",
+               "guid": "57e30801-b87b-4788-a4ab-1c841fca5a3c",
+               "id": "60",
+               "name": "UniFi Network",
+               "type": "url",
+               "url": "https://10.1.1.91:8443/manage/site/default/dashboard"
+            }, {
+               "date_added": "13237028347000000",
+               "guid": "1a675c30-90ca-47d8-bc6e-7d8e9b8e6e93",
+               "id": "61",
+               "name": "UniFi Network - Hotspot Manager",
+               "type": "url",
+               "url": "https://10.1.1.91:8443/manage/hotspot/site/default/vouchers/1/50"
+            } ],
+            "date_added": "13249621428511426",
+            "date_modified": "0",
+            "guid": "148843a3-28a1-42ef-b50f-bc117f7f8ba0",
+            "id": "59",
+            "name": "unifi",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13238495270000000",
+               "guid": "ba47f402-9864-4148-ac09-b7b22ccb9297",
+               "id": "63",
+               "name": "Hướng dẫn cài đặt Zabbix 4.0 LTS trên CentOS 7 | BlogCloud365",
+               "type": "url",
+               "url": "https://blog.cloud365.vn/monitor/cai-dat-zabbix-4-lts-tren-centos7/"
+            }, {
+               "date_added": "13238491555000000",
+               "guid": "4316f7ab-1907-41e9-a1ec-75d37fb779fc",
+               "id": "64",
+               "name": "How to install and configure Zabbix on CentOS 7 | FOSS Linux",
+               "type": "url",
+               "url": "https://www.fosslinux.com/7705/how-to-install-and-configure-zabbix-on-centos-7.htm"
+            }, {
+               "date_added": "13245239882000000",
+               "guid": "64c5fe74-fbd3-4c6d-9dbe-c5e7e31d321d",
+               "id": "65",
+               "name": "Tutorial Zabbix - HTTP Authentication [ Step by Step ]",
+               "type": "url",
+               "url": "https://techexpert.tips/zabbix/zabbix-http-authentication/"
+            }, {
+               "date_added": "13245240405000000",
+               "guid": "d25010b8-d7f1-4954-a95d-ce7e38d511d9",
+               "id": "66",
+               "name": "1 Using certificates [Zabbix Documentation 4.0]",
+               "type": "url",
+               "url": "https://www.zabbix.com/documentation/4.0/manual/encryption/using_certificates"
+            }, {
+               "date_added": "13245935546000000",
+               "guid": "a3f4eebb-d43d-4804-87fa-44fdd873c0e1",
+               "id": "67",
+               "name": "Zabbix Server 4.2: Không thể gửi danh sách kiểm tra đang hoạt động tới [IP]: không tìm thấy máy chủ: zabbix",
+               "type": "url",
+               "url": "https://www.reddit.com/r/zabbix/comments/bmgpwc/zabbix_server_42_cannot_send_list_of_active/"
+            }, {
+               "date_added": "13237877325000000",
+               "guid": "bde04b56-7871-4e82-9402-1ca502b25b2f",
+               "id": "68",
+               "name": "Cài đặt MariaDB trên CentOS 7: Từng bước | MariaDB",
+               "type": "url",
+               "url": "https://mariadb.com/resources/blog/installing-mariadb-10-on-centos-7-rhel-7/"
+            }, {
+               "date_added": "13246512748000000",
+               "guid": "73a41f98-ad6f-418e-a41e-f8da7434f093",
+               "id": "69",
+               "name": "สอนติดตั้ง Zabbix 3.2.4 ( Monitoring System ) on CentOS7 | EP2 - Freelance in Bangkok",
+               "type": "url",
+               "url": "https://freelance-in-bangkok.blogspot.com/2017/10/install-zabbix-ep2.html"
+            }, {
+               "date_added": "13238215614000000",
+               "guid": "1bbbb686-8078-4519-b3a0-56e0299e2e59",
+               "id": "39",
+               "name": "[Zabbix] Giám sát Cisco Switch - SNMP - Trang tin tức từ Cloud365 - Nhân Hòa",
+               "type": "url",
+               "url": "https://news.cloud365.vn/zabbix-giam-sat-cisco-switch-snmp/"
+            }, {
+               "date_added": "13254835029813026",
+               "guid": "07e24630-0f8a-4f81-a07e-81bf199c5b56",
+               "id": "142",
+               "name": "How To Install Zabbix Server 5.0 on Ubuntu 20.04 – TecAdmin",
+               "type": "url",
+               "url": "https://tecadmin.net/how-to-install-zabbix-server-on-ubuntu-20-04/"
+            } ],
+            "date_added": "13249621428511593",
+            "date_modified": "13254835029813026",
+            "guid": "451b7f79-2dc8-4c97-ba4b-df7be930ad4d",
+            "id": "62",
+            "name": "zabbix",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13245330222000000",
+               "guid": "6fecd35c-52f9-4237-8ab3-077eb1c7d445",
+               "id": "71",
+               "name": "How To install Rocket.Chat Server Using Snap Store On Ubuntu 16.04 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sx1nqxThib8"
+            }, {
+               "date_added": "13245330471000000",
+               "guid": "96f005ba-1fde-41f3-baf5-0c8914f80cf1",
+               "id": "72",
+               "name": "Install Rocket Chat on Ubuntu Linux 18.04 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1Eowk4PI2Rg"
+            }, {
+               "date_added": "13245827719000000",
+               "guid": "c382f182-168e-4a7d-9356-10065edefaf9",
+               "id": "73",
+               "name": "LuvinaDN",
+               "type": "url",
+               "url": "http://10.1.0.22:3000/channel/general"
+            }, {
+               "date_added": "13245923379000000",
+               "guid": "6fd25454-a6db-4dfe-bafa-832fa984d50f",
+               "id": "74",
+               "name": "I have installed centos7, and how can I backup rocket.Chat`s user data - Community Support - Rocket.Chat",
+               "type": "url",
+               "url": "https://forums.rocket.chat/t/i-have-installed-centos7-and-how-can-i-backup-rocket-chat-s-user-data/4413/2"
+            }, {
+               "date_added": "13245923437000000",
+               "guid": "64e7edd8-1b5c-4fcd-a4d5-374e75093b27",
+               "id": "75",
+               "name": "Install Rocket.Chat Desktop on CentOS using the Snap Store | Snapcraft",
+               "type": "url",
+               "url": "https://snapcraft.io/install/rocketchat-desktop/centos"
+            }, {
+               "date_added": "13245925397000000",
+               "guid": "456f6bae-3003-4ce5-ad1b-120a6b9b54bb",
+               "id": "76",
+               "name": "Tổng hợp lệnh phổ biến trong Ubuntu và CentOS/Fedora - Học VPS",
+               "type": "url",
+               "url": "https://hocvps.com/lenh-pho-bien-trong-ubuntu-va-centos-fedora/"
+            }, {
+               "date_added": "13245928488000000",
+               "guid": "cf81c50f-c3f6-4f23-ab78-5b5471ac2e06",
+               "id": "77",
+               "name": "[HOW TO] Migrate from Snap to Manual installed RocketChat - Community Guides - Rocket.Chat",
+               "type": "url",
+               "url": "https://forums.rocket.chat/t/how-to-migrate-from-snap-to-manual-installed-rocketchat/2126"
+            }, {
+               "date_added": "13246613849000000",
+               "guid": "f2ff2cd8-1bfd-4b2a-aa8e-5458ab869158",
+               "id": "78",
+               "name": "How To Install Jitsi Meet on Ubuntu 18.04 | DigitalOcean",
+               "type": "url",
+               "url": "https://www.digitalocean.com/community/tutorials/how-to-install-jitsi-meet-on-ubuntu-18-04"
+            }, {
+               "date_added": "13246614395000000",
+               "guid": "1c8c3c04-1251-4b86-aeec-b670b2824232",
+               "id": "79",
+               "name": "Jitsi [Part 2] - Hướng dẫn cài đặt Jitsi Meet trên Ubuntu 18.04 LTS - Trang tin tức từ Cloud365 - Nhân Hòa",
+               "type": "url",
+               "url": "https://news.cloud365.vn/huong-dan-cai-dat-jitsi-meet-tren-ubuntu-18-04-lts/"
+            } ],
+            "date_added": "13249621428560953",
+            "date_modified": "0",
+            "guid": "f85efe50-8777-4ee0-8545-b2f99a15d2b2",
+            "id": "70",
+            "name": "rockey",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13246001169000000",
+               "guid": "eb5f7ea5-acc1-428c-b648-0c14c9188de2",
+               "id": "81",
+               "name": "Cách khắc phục lỗi \"Kết nối bị từ chối\" trong kết nối SSH",
+               "type": "url",
+               "url": "https://kinsta.com/knowledgebase/ssh-connection-refused/"
+            }, {
+               "date_added": "13237374293000000",
+               "guid": "adcf34c3-291e-43d6-93d5-5ff9f2ed91ca",
+               "id": "82",
+               "name": "Linux Basics - Set a Static IP on Ubuntu",
+               "type": "url",
+               "url": "https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu"
+            }, {
+               "date_added": "13246445667000000",
+               "guid": "e9e49fdb-d7d4-4684-b62e-dac4de227a52",
+               "id": "83",
+               "name": "Hướng dẫn cài đặt OpenSSH Server cho Ubuntu",
+               "type": "url",
+               "url": "https://o7planning.org/vi/11303/huong-dan-cai-dat-openssh-server-cho-ubuntu"
+            }, {
+               "date_added": "13246621320000000",
+               "guid": "f13cbb5e-de8a-485e-a140-298e218dbc28",
+               "id": "84",
+               "name": "Hướng dẫn thay đổi múi giờ trên CentOS 7 - HOSTVN Blog",
+               "type": "url",
+               "url": "https://blog.hostvn.net/chia-se/huong-dan-thay-doi-mui-gio-tren-centos-7.html"
+            }, {
+               "date_added": "13246623513000000",
+               "guid": "5cb49d63-3fa9-4349-8ff3-837625b77c9a",
+               "id": "85",
+               "name": "Máy chủ Zabbix không chạy: thông tin được hiển thị có thể không cập nhật - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/31502022/zabbix-server-is-not-running-the-information-displayed-may-not-be-current/46928354"
+            }, {
+               "date_added": "13246624145000000",
+               "guid": "9eef6106-9a39-44d0-8410-2af3187b9613",
+               "id": "86",
+               "name": "Admin",
+               "type": "url",
+               "url": "http://14.176.232.32:1195/admin"
+            }, {
+               "date_added": "13248173932000000",
+               "guid": "11f084b8-8311-4c97-a92d-7e4b9f946962",
+               "id": "87",
+               "name": "GitHub - furlongm/openvpn-monitor: openvpn-monitor is a web based OpenVPN monitor, that shows current connection information, such as users, location and data transferred.",
+               "type": "url",
+               "url": "https://github.com/furlongm/openvpn-monitor#nginx--uwsgi"
+            }, {
+               "date_added": "13249031992000000",
+               "guid": "85cbf45c-5f8b-4d74-91b7-4faf96065a82",
+               "id": "88",
+               "name": "Mở rộng phân vùng centos-root trên centos 7 - Blog - AZS.VN",
+               "type": "url",
+               "url": "https://blog.azs.vn/mo-rong-phan-vung-centos-root-tren-centos-7/"
+            }, {
+               "date_added": "13249032983000000",
+               "guid": "cf38a705-5e2d-43e1-a61d-c2f37b6a8c0b",
+               "id": "89",
+               "name": "[SOLVED] CentOS 7 issue: /dev/mapper/centos-root at 97% use - Linux Forum - Spiceworks",
+               "type": "url",
+               "url": "https://community.spiceworks.com/topic/2216194-centos-7-issue-dev-mapper-centos-root-at-97-use"
+            }, {
+               "date_added": "13249033624000000",
+               "guid": "8b71fc34-1801-4734-8c7e-4ba5f90c5d92",
+               "id": "90",
+               "name": "How to add more disk space on /dev/mapper/centos-root | codbit",
+               "type": "url",
+               "url": "https://codbit.wordpress.com/2019/11/11/how-to-add-more-disk-space-on-dev-mapper-centos-root/"
+            }, {
+               "date_added": "13249033963000000",
+               "guid": "61c913bc-bcbc-4580-89d1-91aadba7ea06",
+               "id": "91",
+               "name": "Resize root partition (or how to remove the default /home partition) on CentOS 7 online · GitHub",
+               "type": "url",
+               "url": "https://gist.github.com/troyfontaine/87091bd6a5c68f45dd62ced3d12bc377"
+            }, {
+               "date_added": "13249642113913960",
+               "guid": "1cdae33d-72fb-4500-a95f-643ed45d4373",
+               "id": "104",
+               "name": "Docker: Kể từ đó họa mi không lo cài lại ubuntu nữa =))",
+               "type": "url",
+               "url": "https://viblo.asia/p/docker-ke-tu-do-hoa-mi-khong-lo-cai-lai-ubuntu-nua-bJzKmXeE59N"
+            }, {
+               "date_added": "13253696767106583",
+               "guid": "001421e2-e287-454f-b3dc-9f90e4d62918",
+               "id": "132",
+               "name": "CentOS Mirror",
+               "type": "url",
+               "url": "http://mirror.centos.org/centos/8-stream/BaseOS/x86_64/os/"
+            }, {
+               "date_added": "13269688983560834",
+               "guid": "e9ffc0dc-0905-4d16-9dca-df5ebf433550",
+               "id": "172",
+               "name": "Squid 1: Hướng dẫn xây dựng Server Proxy bằng Squid trên Ubuntu và Debian ~ ITBlogNote | Công Nghệ Và Giải Trí",
+               "type": "url",
+               "url": "https://www.itblognote.com/2019/06/huong-dan-xay-dung-server-proxy-bang.html"
+            }, {
+               "date_added": "13270127915440017",
+               "guid": "173e6182-d6d1-46e6-9d9a-60db34ec130c",
+               "id": "174",
+               "name": "Join Ubuntu 20.04|18.04 / Debian 10 To Active Directory (AD) domain | ComputingForGeeks",
+               "type": "url",
+               "url": "https://computingforgeeks.com/join-ubuntu-debian-to-active-directory-ad-domain/"
+            }, {
+               "date_added": "13270190925699974",
+               "guid": "822efc93-12ae-4d91-bffe-7619415b50dc",
+               "id": "175",
+               "name": "How To Join CentOS 8 / RHEL 8 System to Active Directory (AD) domain | ComputingForGeeks",
+               "type": "url",
+               "url": "https://computingforgeeks.com/join-centos-rhel-system-to-active-directory-domain/"
+            }, {
+               "date_added": "13270288341469595",
+               "guid": "6f0eb74b-48bf-4f61-bf57-0433d0d83803",
+               "id": "176",
+               "name": "Quản lý log với Logstash, Elasticsearch, Kibana",
+               "type": "url",
+               "url": "https://viblo.asia/p/quan-ly-log-voi-logstash-elasticsearch-kibana-BAQ3vVj1vbOr"
+            } ],
+            "date_added": "13249621428562428",
+            "date_modified": "13270288341469595",
+            "guid": "5bbfc3b3-768d-4f44-a213-911e2c03b5c6",
+            "id": "80",
+            "name": "linux",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13247807828000000",
+               "guid": "a70bb1fa-63cb-43a2-b6e3-ba88bbdf5914",
+               "id": "95",
+               "name": "Amazon EC2 và EBS Exam Practice Questions I - Tự Học AWS",
+               "type": "url",
+               "url": "https://tuhocaws.com/amazon-ec2-va-ebs-exam-practice-questions-i/"
+            }, {
+               "date_added": "13247814839000000",
+               "guid": "11f896c7-c9a8-41fe-b9f5-442b17f80e66",
+               "id": "96",
+               "name": "ÔN THI CHỨNG CHỈ AWS – BẠN ĐÃ BIẾT CÁCH? | Cowell Asia",
+               "type": "url",
+               "url": "https://co-well.vn/nhat-ky-cong-nghe/on-thi-chung-chi-aws-ban-da-biet-cach/"
+            }, {
+               "date_added": "13247821324000000",
+               "guid": "bdcd3f82-f7f3-48f4-b8a8-c8805c1482fd",
+               "id": "97",
+               "name": "Học AWS trong 30 ngày (Ngày 2) - CODE&BUG",
+               "type": "url",
+               "url": "https://toolhub.dev/aws/learning-aws-ngay-2.html"
+            }, {
+               "date_added": "13247910235000000",
+               "guid": "10f9f12e-9740-4580-8cbe-7d19eedb72cc",
+               "id": "98",
+               "name": "Cách sao lưu tệp vào Amazon S3 – Amazon Web Services",
+               "type": "url",
+               "url": "https://aws.amazon.com/vi/getting-started/hands-on/backup-files-to-amazon-s3/"
+            }, {
+               "date_added": "13248154617000000",
+               "guid": "a2965263-5dc2-43da-b6ed-54510795f1f5",
+               "id": "99",
+               "name": "AWS Management Console",
+               "type": "url",
+               "url": "https://ap-southeast-1.console.aws.amazon.com/console/home?nc2=h_ct&region=ap-southeast-1&src=header-signin#"
+            }, {
+               "date_added": "13249363315000000",
+               "guid": "f306b013-c75a-442c-b825-815d17394240",
+               "id": "100",
+               "name": "Tóm tắt nội dung ôn thi AWS-SAA (P1) - IAM & S3",
+               "type": "url",
+               "url": "https://kipalog.kaopiz.com/posts/Tom-tat-noi-dung-on-thi-AWS-SAA--P1----IAM---S3"
+            }, {
+               "date_added": "13248181776000000",
+               "guid": "1f5e6572-71d2-4ff7-b580-6f5f36805ead",
+               "id": "101",
+               "name": "AWS Certified Solutions Architect - Associate Exam – Free Actual Q&As, Page 1 | ExamTopics",
+               "type": "url",
+               "url": "https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate/view/"
+            }, {
+               "date_added": "13239440234000000",
+               "guid": "6270ceae-673d-4c03-b4a5-671f51910d31",
+               "id": "44",
+               "name": "Tự học AWS [P1] - Một số khái niệm cơ bản của AWS - Nero's Blog",
+               "type": "url",
+               "url": "https://nerophung.github.io/2019/10/15/tu-hoc-aws-p1"
+            }, {
+               "date_added": "13251196549431884",
+               "guid": "9eda9e51-c3e9-4f35-9e18-a72994ab67dc",
+               "id": "114",
+               "name": "Chi tiết bài học 5.Biến trong Python",
+               "type": "url",
+               "url": "https://vimentor.com/vi/lesson/5-bien-trong-python"
+            }, {
+               "date_added": "13254392502391129",
+               "guid": "f90b30ca-40b5-4fae-a144-2bbae8642177",
+               "id": "137",
+               "name": "Kinh nghiệm thi chứng chỉ AWS Certified Developer – Associate | Mầu - System Engineer | Outdoorsman @ qmau.me",
+               "type": "url",
+               "url": "https://qmau.me/blog/post/kinh-nghiem-thi-chung-chi-aws-certified-developer-associate"
+            }, {
+               "date_added": "13254568945690737",
+               "guid": "235a34f6-e569-472f-957a-b55936d83c9a",
+               "id": "139",
+               "name": "AWS Certified Solutions Architect - Associate 2020 | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/learn/lecture/13886512#overview"
+            }, {
+               "date_added": "13257245561834554",
+               "guid": "3cbcb9e1-7007-4435-88cb-3de1a0dfed67",
+               "id": "159",
+               "name": "AWS Documentation",
+               "type": "url",
+               "url": "https://docs.aws.amazon.com/index.html"
+            } ],
+            "date_added": "13249621428564421",
+            "date_modified": "13257245561834554",
+            "guid": "9b725be1-0e2b-46d4-a2e8-758f1afdbe1d",
+            "id": "94",
+            "name": "aw",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13250752716864613",
+               "guid": "a0426c1b-2b26-4020-aab5-8cfcad26607b",
+               "id": "107",
+               "name": "Cisco Configuration Professional for Catalyst - Cisco",
+               "type": "url",
+               "url": "https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-professional-catalyst/index.html"
+            }, {
+               "date_added": "13250761774464914",
+               "guid": "1813ad7d-39d8-48bc-94ad-3000cdb4e06f",
+               "id": "108",
+               "name": "CCNA - [Bài 26] Cấu hình port security cho Switch | Lab Network System Security",
+               "type": "url",
+               "url": "http://securityzone.vn/t/bai-26-cau-hinh-port-security-cho-switch.7/"
+            }, {
+               "date_added": "13250752228072592",
+               "guid": "95b1e222-960b-489e-a3f0-2938c0bdff60",
+               "id": "106",
+               "name": "Hướng dẫn kích hoạt giao diện Web Switch Cisco",
+               "type": "url",
+               "url": "https://cnttshop.vn/blogs/cisco/kich-hoat-giao-dien-web-switch-cisco"
+            }, {
+               "date_added": "13231841766000000",
+               "guid": "de337617-976a-4968-92d3-825b1738c86d",
+               "id": "31",
+               "name": "Subnet Mask Cheat Sheet",
+               "type": "url",
+               "url": "https://www.aelius.com/njh/subnet_sheet.html"
+            }, {
+               "date_added": "13238670518000000",
+               "guid": "92b65dcc-b947-46ea-8d58-72370bd3956f",
+               "id": "56",
+               "name": "Tổng quan về Công nghệ EtherChannel - Viblo",
+               "type": "url",
+               "url": "https://viblo.asia/p/tong-quan-ve-cong-nghe-etherchannel-vyDZOWAdZwj"
+            }, {
+               "date_added": "13244523525000000",
+               "guid": "3bdd9d11-3fdc-4faf-8da8-78e40697e7e0",
+               "id": "49",
+               "name": "Vài lệnh cấu hình Switch Cisco",
+               "type": "url",
+               "url": "http://forum.daiduongtelecom.vn/post-detail/7-vai-lenh-cau-hinh-switch-cisco"
+            }, {
+               "date_added": "13238063890000000",
+               "guid": "8e7c59a0-b80a-41c5-a148-b52fd599babd",
+               "id": "37",
+               "name": "Các lệnh troubleshoot Switch Cisco – Nguyen Manh Dung",
+               "type": "url",
+               "url": "https://mdungblog.wordpress.com/cac-lenh-troubleshoot-switch-cisco/"
+            }, {
+               "date_added": "13239275863000000",
+               "guid": "121979c0-2d62-414c-96d8-4b9898b1be71",
+               "id": "43",
+               "name": "Cấu hình vlan, trunking, vtp trên Switch Cisco - KT INI",
+               "type": "url",
+               "url": "https://kythuat.ini.vn/2018/09/cau-hinh-vlan-trunking-vtp-tren-switch.html"
+            }, {
+               "date_added": "13243580549000000",
+               "guid": "66e423a8-0289-42b6-9658-e62e2cce1f17",
+               "id": "48",
+               "name": "Xác định địa chỉ IP của thiết bị được kết nối tới port của switch | Infrastructure Engineering",
+               "type": "url",
+               "url": "https://manthang.wordpress.com/2012/05/10/xac-dinh-dia-chi-ip-cua-thiet-bi-duoc-ket-noi-toi-port-cua-switch/"
+            }, {
+               "date_added": "13252574949456383",
+               "guid": "1e41f838-a884-442e-b457-3f915fc807dd",
+               "id": "122",
+               "name": "Ping và Tracert là gì ? - TINO HELP",
+               "type": "url",
+               "url": "https://help.tino.org/huong-dan/ping-va-tracert-la-gi/#:~:text=%E2%80%93%20L%E1%BB%87nh%20ping%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20tra,g%C3%B3i%20tin%20t%E1%BB%9Bi%20m%C3%A1y%20%C4%91%C3%B3."
+            }, {
+               "date_added": "13253077077001229",
+               "guid": "5d0aee61-6b9c-4c46-a210-6d32ef40065d",
+               "id": "124",
+               "name": "[pfSense toàn tập - phần 4] Hướng dẫn cài đặt Open VPN Site to Site 1 kết hợp với CARP",
+               "type": "url",
+               "url": "https://ftlinuxcourse.com/pfsense-toan-tap-phan-4-huong-dan-cai-dat-open-vpn-site-to-site-1-ket-hop-voi-carp"
+            }, {
+               "date_added": "13253099084782348",
+               "guid": "ca946acc-8f82-404a-ba76-f179a0a1263b",
+               "id": "125",
+               "name": "pfSense toàn tập – Part II – Nguyen Manh Dung",
+               "type": "url",
+               "url": "https://mdungblog.wordpress.com/2018/11/05/pfsense-toan-tap-part-ii/"
+            }, {
+               "date_added": "13253170975442459",
+               "guid": "f16bdeb6-31d9-4d6a-90ea-7e67a9740f91",
+               "id": "127",
+               "name": "Hướng dẫn cài đặt Pfsense trên VMware – Part II – Nguyen Manh Dung",
+               "type": "url",
+               "url": "https://mdungblog.wordpress.com/2018/07/23/huong-dan-cai-dat-pfsense-tren-vmware-part-ii/"
+            }, {
+               "date_added": "13253191758304721",
+               "guid": "c6e0e48f-861d-4fd7-b213-c340060e8d7a",
+               "id": "128",
+               "name": "Volume Gateway | Amazon Web Services",
+               "type": "url",
+               "url": "https://aws.amazon.com/vi/storagegateway/volume/"
+            }, {
+               "date_added": "13258112593329896",
+               "guid": "e3452bc5-6392-44cf-99c2-c902d3866025",
+               "id": "161",
+               "name": "Cấu hình VLAN, TRUNK - Khái niệm và cấu hình cơ bản | BlogCloud365",
+               "type": "url",
+               "url": "https://blog.cloud365.vn/windows/linux/other/huong-dan-cau-hinh-vlan-trunking/"
+            }, {
+               "date_added": "13258196336694356",
+               "guid": "3372ddfd-b1b7-4a51-b67f-dba3bfdb99e5",
+               "id": "163",
+               "name": "cu ",
+               "type": "url",
+               "url": "http://due.udn.vn/vi-vn/sinhvien"
+            } ],
+            "date_added": "13250761801934598",
+            "date_modified": "13258196336694356",
+            "guid": "e78a9ec7-7f88-445c-bdc6-6ad828f957c7",
+            "id": "109",
+            "name": "CCNA-P",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13251549917702895",
+               "guid": "0659b1bc-ecfa-4e1c-831c-28d6f8afde07",
+               "id": "117",
+               "name": "A Docker Tutorial for Beginners",
+               "type": "url",
+               "url": "https://docker-curriculum.com/"
+            }, {
+               "date_added": "13250849371936741",
+               "guid": "b54b732a-52ca-4b20-add7-c7e5fd0cc3be",
+               "id": "111",
+               "name": "Docker toàn tập | Comdy",
+               "type": "url",
+               "url": "https://comdy.vn/docker/docker-toan-tap/"
+            } ],
+            "date_added": "13252135716278697",
+            "date_modified": "13252135726531060",
+            "guid": "a9882a5b-5cb7-45af-b9e0-98a583cdd377",
+            "id": "119",
+            "name": "docker",
+            "type": "folder"
+         }, {
+            "date_added": "13250860667413032",
+            "guid": "4212861f-4566-4011-9c72-e2d326c23e6e",
+            "id": "112",
+            "name": "Tôi yêu bản dịch - dịch trực tuyến",
+            "type": "url",
+            "url": "https://vi.ilovetranslation.com/"
+         }, {
+            "date_added": "13246358296000000",
+            "guid": "c9d4c3ce-40ef-4428-8915-8c0b1f4a6f4b",
+            "id": "92",
+            "name": "Hướng dẫn khắc phục lổi không thể Join Domain sau khi Ghost lại máy Client ~ Trung Huỳnh Blogger",
+            "type": "url",
+            "url": "http://trunghuynhvan.blogspot.com/2018/02/huong-dan-khac-phuc-loi-khong-join.html"
+         }, {
+            "date_added": "13239269636000000",
+            "guid": "479829e8-be3e-44f3-bf5c-f25ad6b13631",
+            "id": "93",
+            "name": "Submarine Cable Map",
+            "type": "url",
+            "url": "https://www.submarinecablemap.com/#/submarine-cable/asia-pacific-gateway-apg"
+         }, {
+            "date_added": "13252135745873124",
+            "guid": "faeb4b68-1f3a-45c5-9d9a-e02c495090dd",
+            "id": "120",
+            "name": "Update vá lỗi windows bằng file MSU - Simple IT",
+            "type": "url",
+            "url": "https://simpleits.blogspot.com/2017/05/minh-xin-huong-dan-cac-ban-cai-update.html"
+         }, {
+            "children": [ {
+               "date_added": "13254919194754427",
+               "guid": "589e5090-1118-464d-a74d-a67396bf3165",
+               "id": "145",
+               "name": "16-Shell_programming.pptx",
+               "type": "url",
+               "url": "https://users.soict.hust.edu.vn/linhtd/courses/PMMNM/16-Shell_programming.pdf"
+            }, {
+               "date_added": "13255511603336181",
+               "guid": "211687a6-2d88-4475-a6e9-28ce6a89d34d",
+               "id": "147",
+               "name": "Đường ống (Pipe), lọc (Filter) và chuyển hướng (Redirection) trên Linux | ./blogd",
+               "type": "url",
+               "url": "https://blogd.net/linux/duong-ong-loc-va-chuyen-huong-tren-linux/"
+            }, {
+               "date_added": "13256013918553109",
+               "guid": "3611bd72-ede7-4835-b3c8-b074ac8bc8f6",
+               "id": "149",
+               "name": "bash — Làm cách nào để tách một chuỗi trên một dấu phân cách trong Bash?",
+               "type": "url",
+               "url": "https://www.it-swarm-vi.tech/vi/bash/lam-cach-nao-de-tach-mot-chuoi-tren-mot-dau-phan-cach-trong-bash/957621190/"
+            }, {
+               "date_added": "13256029306837399",
+               "guid": "23d6c7f0-a5b4-4b88-9cfb-6251f4262e91",
+               "id": "150",
+               "name": "Bash Read User Input - Javatpoint",
+               "type": "url",
+               "url": "https://www.javatpoint.com/bash-read-user-input"
+            }, {
+               "date_added": "13256035138433567",
+               "guid": "25df6ac3-7079-4543-b19e-7a15452baffe",
+               "id": "151",
+               "name": "Linux / UNIX: Bash Đọc từng dòng tệp - nixCraft",
+               "type": "url",
+               "url": "https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/"
+            }, {
+               "date_added": "13256101988145157",
+               "guid": "c1db765a-24d7-4e8f-a63c-9c96c649cec3",
+               "id": "153",
+               "name": "GNU coreutils - Core GNU utilities - GNU Project - Free Software Foundation",
+               "type": "url",
+               "url": "https://www.gnu.org/software/coreutils/manual/"
+            }, {
+               "date_added": "13256206783087354",
+               "guid": "848e6df2-0fc6-4934-8616-b389972ecc86",
+               "id": "155",
+               "name": "Lưu trữ dữ liệu xuất ra của một lệnh Linux vào file - Quantrimang.com",
+               "type": "url",
+               "url": "https://quantrimang.com/luu-tru-du-lieu-xuat-ra-cua-mot-lenh-linux-vao-file-55947"
+            }, {
+               "date_added": "13256808904852056",
+               "guid": "cb85c104-4c9f-40e9-a5d4-6772c72e8b4a",
+               "id": "157",
+               "name": "command line - What's the difference between \u003C\u003C, \u003C\u003C\u003C and \u003C \u003C in bash? - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/678915/whats-the-difference-between-and-in-bash"
+            } ],
+            "date_added": "13254919190967166",
+            "date_modified": "13256808904852056",
+            "guid": "ddcaa851-ed3a-4311-b72f-6a01611d728a",
+            "id": "144",
+            "name": "SHELL",
+            "type": "folder"
+         } ],
+         "date_added": "13249621383284830",
+         "date_modified": "13269682585245594",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13249621383284833",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13249621383284834",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
